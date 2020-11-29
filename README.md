@@ -21,4 +21,4 @@ Example of entries:
              // String []specPossible = {"2", "3", "4", "5", "6", "7", "8","9", "10", "J", "Q", "K", "A"};
              // String [] possibleColor ={"C","H","S","D"};
              //do a space between each card
-             //impossible to entry 2 or more times the same card
+             //impossible to entry more than 2 times the same card
